@@ -67,3 +67,6 @@ submit() {
 			});
 		}
 	}
+	
+	
+	accept="application/pdf,application/vnd.ms-excel" 
